@@ -12,3 +12,4 @@
 
 ![mobile 1](https://i.ibb.co/k9p95wW/localhost-3000-i-Phone-12-Pro-1.png)
 ![mobile 2](https://i.ibb.co/N1HHVLm/localhost-3000-i-Phone-12-Pro.png)
+# Quotes-Photos
